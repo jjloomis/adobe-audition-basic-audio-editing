@@ -1,1 +1,6 @@
 /* CSS for website */
+
+.book-summary ul.summary li a, .book-summary ul.summary li span {
+  white-space: normal;
+}
+
