@@ -1,4 +1,4 @@
-# Using Undo and the History Panel 
+# Using Undo and the History panel 
 
 If you go overboard with volume adjustments or deletions, you can step back in time using Undo.
 
