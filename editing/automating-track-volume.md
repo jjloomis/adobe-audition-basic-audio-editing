@@ -1,0 +1,13 @@
+# Automating track volume with keyframes
+
+Specific areas of your sound bites can be set to automatically become louder or softer in volume as your project plays in the Multitrack Session. This automation process is not always necessary, but it is an option if want to create dynamic volume fluctuations at certain points of your project.
+
+To automate the volume of an audio track, you can add Keyframes to your sound bites in the Multitrack Session. The Keyframes will automatically increase or decrease the volume of the sound bites.
+
+1.	In the Multitrack Session, select the sound bite you want to adjust. The middle of the sound bite will contain two lines. The blue line adjusts the pan (stereo imaging) of the sound bite. The yellow line adjusts the volume. 
+2.	Click the yellow volume line slightly before the point where you would like a volume change to occur. A Keyframe will appear at this point.
+3.	Click the yellow volume line slightly after the point where you would like the volume change to end. 
+4.	Add a third Keyframe to the yellow volume line at the point where you would like the volume change to occur.
+5.	Click and drag the middle Keyframe (either up or down) to create volume automation on the sound bite.
+6.	To delete a Keyframe, click it on the yellow volume bar. The Keyframe will become highlighted. 
+7.	Press the Delete key (on keyboard.)
