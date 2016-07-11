@@ -27,4 +27,9 @@
   * [Moving multiple sound bites](editing/moving-multiple-sound-bites.md)
   * [Adding narration](editing/adding-narration.md)
   * [Adding ambient sound](editing/adding-ambient-sound.md)
-  * 
+  * [Applying fades to sound bites](editing/applying-fades-to-sound-bites.md)
+  * [Using track controls](editing/using-track-controls.md)
+  * [Automating track volume with keyframes](editing/automating-track-volume.md)
+* [Exporting](exporting)
+  * [Finalizing your script](exporting/finalizing-your-script.md)
+  * [Exporting an MP3](exporting/exporting-mp3.md)
