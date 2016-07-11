@@ -7,4 +7,6 @@
   * [Copying WAV files into your project folder](listening-and-logging/copying-wav-files-into-project-folder.md)
   * [Importing WAV files into Audtition](listening-and-logging/importing-wav-files.md)
   * [Listening to WAV files in the Waveform Editor](listening-and-logging/listening-to-wav-files-in-waveform-editor.md)
+  * [Raising or lowering WAV file audio level](listening-and-logging/raising-or-lowering-wav-file-audio-level.md)
+  * [Zooming in and out](listening-and-logging/zooming-in-out.md)
   * 
