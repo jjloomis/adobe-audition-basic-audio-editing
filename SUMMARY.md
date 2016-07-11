@@ -22,4 +22,9 @@
   * [Deleting part of a sound bite](editing/deleting-part-of-sound-bite.md)
   * [Using undo and the History panel](editing/using-undo-and-history.md)
   * [Switching between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
+  * [Saving all of your work](editing/saving-all-of-your-work.md)
+  * [Working with additional audio files](editing/working-with-additional-audio-files.md)
+  * [Moving multiple sound bites](editing/moving-multiple-sound-bites.md)
+  * [Adding narration](editing/adding-narration.md)
+  * [Adding ambient sound](editing/adding-ambient-sound.md)
   * 
