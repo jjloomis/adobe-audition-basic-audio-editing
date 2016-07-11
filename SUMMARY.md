@@ -11,5 +11,9 @@
   * [Zooming in and out](listening-and-logging/zooming-in-out.md)
   * [Adding Range Markers to a WAV file](listening-and-logging/adding-range-markers-to-wav-file.md)
   * [Saving a WAV file with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
+  * [Exporting audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
   * [Writing a draft script](listening-and-logging/writing-draft-script.md)
-  * 
+* [Editing](editing)
+  * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
+  * [Adding sound bite WAV files to tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
+  * [Deleting a sound bite from a track](editing/deleting-sound-bite-from-track.md)
