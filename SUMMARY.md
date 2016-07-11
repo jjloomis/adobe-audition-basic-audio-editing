@@ -21,4 +21,5 @@
   * [Adjusting audio level within a sound bite](editing/adjusting-audio-level-within-sound-bite.md)
   * [Deleting part of a sound bite](editing/deleting-part-of-sound-bite.md)
   * [Using undo and the History panel](editing/using-undo-and-history.md)
+  * [Switching between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
   * 
