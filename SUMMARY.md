@@ -16,7 +16,9 @@
 * [Editing](editing)
   * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
   * [Adding sound bite WAV files to tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
-  * 
+  * [Deleting a sound bite from a track](editing/deleting-sound-bite-from-track.md)
+  * [Editing a sound bite in the Waveform Editor](editing/editing-sound-bite-in-waveform-editor.md)
   * [Adjusting audio level within a sound bite](editing/adjusting-audio-level-within-sound-bite.md)
+  * [Deleting part of a sound bite](editing/deleting-part-of-sound-bite.md)
   * [Using undo and the History panel](editing/using-undo-and-history.md)
   * 
