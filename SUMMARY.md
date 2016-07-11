@@ -33,3 +33,4 @@
 * [Exporting](exporting/README.md)
   * [Finalizing your script](exporting/finalizing-your-script.md)
   * [Exporting an MP3](exporting/exporting-mp3.md)
+* [Glossary](GLOSSARY.md)
