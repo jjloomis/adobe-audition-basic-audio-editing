@@ -9,4 +9,6 @@
   * [Listening to WAV files in the Waveform Editor](listening-and-logging/listening-to-wav-files-in-waveform-editor.md)
   * [Raising or lowering WAV file audio level](listening-and-logging/raising-or-lowering-wav-file-audio-level.md)
   * [Zooming in and out](listening-and-logging/zooming-in-out.md)
+  * [Adding Range Markers to a WAV file](listening-and-logging/adding-range-markers-to-wav-file.md)
+  * [Saving a WAV file with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
   * 
