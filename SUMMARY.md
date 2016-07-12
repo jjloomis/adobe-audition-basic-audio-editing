@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Overview](README.md)
 * [Listening and logging](listening-and-logging/README.md)
   * [Opening Audition](listening-and-logging/opening-audition.md)
   * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
