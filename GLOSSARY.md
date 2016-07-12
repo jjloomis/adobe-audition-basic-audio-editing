@@ -10,5 +10,5 @@ Adobe Audition Multitrack Session project file.
 
 ## WAV
 
-High-quality audio file format. Used in editing stage of JAMS audio editing workflow.
+High-quality audio file format. Used in recording and editing process.
 
