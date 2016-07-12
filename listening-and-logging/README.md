@@ -1,18 +1,4 @@
 # Listening and logging
 
-Before you can start editing in Audition, you'll need to get the process of listening and logging squared away. This is the note tacking phase of the workflow.
-
-Before you can start editing in Audition, you'll need to do some initial setup steps. During this phase of the workflow you will:
-
-* Create a Multitrack Session and project folder
-* Transfer the WAV files on your Zoom recorder into your project
-* Note your keeper sound bites by adding Range Markers to your WAV files
-* Use your Range Markers to create standalone keeper sound bite WAV files  
-* Write a draft script
-
-Before you can start editing in Audition, you'll need to 
-
-
-
-During the listening and logging phase of the workflow, you will create 
+Listening and logging is the notetaking phase of the Audition editing workflow. After creating a Multitrack Session, you'll copy the WAV files on your Zoom into your project folder. Then you'll note your keeper sound bites by adding Range Markers to your WAV files. Using your Range Markers, you'll export standalone keeper sound bite WAV files into your project folder.
 
