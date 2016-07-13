@@ -13,3 +13,5 @@ Creating a Multitrack Session \(SESX file\) also creates a project folder. Your 
 
 
 
+![](/assets/creating-multitrack-session.png)
+
