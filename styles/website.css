@@ -4,10 +4,3 @@
   white-space: normal;
 }
 
-.figure { 
-    /*margin: 1.5em 0px; 
-    padding: 10px 0;*/
-    display: flex; 
-    justify-content: center; /* align horizontal */ 
-    align-items: center; /* align vertical */ 
-}
