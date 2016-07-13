@@ -13,5 +13,9 @@ Creating a Multitrack Session \(SESX file\) also creates a project folder. Your 
 
 
 
-![](/assets/creating-multitrack-session.png)
+-&gt; \[alt text\]\(http:\/\/www.jamsources.com\/wp-content\/uploads\/2016\/07\/creating-multitrack-session.png\)&lt;-
+
+
+
+
 
