@@ -12,3 +12,8 @@ Creating a Multitrack Session \(SESX file\) also creates a project folder. Your 
 4. When finished, click OK.
 
 
+
+<img src="http://www.jamsources.com/wp-content/uploads/2016/07/creating-multitrack-session.png" align="center">
+
+
+
