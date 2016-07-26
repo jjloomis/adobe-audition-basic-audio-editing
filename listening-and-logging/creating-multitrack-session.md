@@ -12,9 +12,5 @@ Creating a Multitrack Session \(SESX file\) also creates a project folder. Your 
 4. When finished, click OK.
 
 
-
-
-![Text text texst](/assets/creating-multitrack-session.png)
-
-
+![Text text texst extra long text Text text texst extra long text Text text texst extra long text](/assets/creating-multitrack-session.png)
 
