@@ -14,4 +14,4 @@ Creating a Multitrack Session \(SESX file\) also creates a project folder. Your 
 
 
 
-<div id="feature"><img src="http://www.jamsources.com/wp-content/uploads/2016/07/importing-wav-files-into-audition.png"></div>
+<div class="my-centered-image"><img src="http://www.jamsources.com/wp-content/uploads/2016/07/importing-wav-files-into-audition.png"></div>
