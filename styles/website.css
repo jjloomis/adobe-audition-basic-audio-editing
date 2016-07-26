@@ -4,3 +4,7 @@
   white-space: normal;
 }
 
+.my-centered-image {
+    display: flex;
+    justify-content: center;
+}
