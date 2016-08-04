@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 
-# Listening and logging
+## Listening and logging
 * [Opening Audition](listening-and-logging/opening-audition.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Copying WAV files into your project folder](listening-and-logging/copying-wav-files-into-project-folder.md)
@@ -15,28 +15,28 @@
 * [Exporting audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 * [Writing a draft script](listening-and-logging/writing-draft-script.md)
 
-# Editing
-  * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
-  * [Adding sound bite WAV files to tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
-  * [Deleting a sound bite from a track](editing/deleting-sound-bite-from-track.md)
-  * [Editing a sound bite in the Waveform Editor](editing/editing-sound-bite-in-waveform-editor.md)
-  * [Adjusting audio level within a sound bite](editing/adjusting-audio-level-within-sound-bite.md)
-  * [Deleting part of a sound bite](editing/deleting-part-of-sound-bite.md)
-  * [Using undo and the History panel](editing/using-undo-and-history.md)
-  * [Switching between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
-  * [Saving all of your work](editing/saving-all-of-your-work.md)
-  * [Working with additional audio files](editing/working-with-additional-audio-files.md)
-  * [Moving multiple sound bites](editing/moving-multiple-sound-bites.md)
-  * [Adding narration](editing/adding-narration.md)
-  * [Adding ambient sound](editing/adding-ambient-sound.md)
-  * [Applying fades to sound bites](editing/applying-fades-to-sound-bites.md)
-  * [Using track controls](editing/using-track-controls.md)
-  * [Automating track volume with keyframes](editing/automating-track-volume.md)
+## Editing
+* [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
+* [Adding sound bite WAV files to tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
+* [Deleting a sound bite from a track](editing/deleting-sound-bite-from-track.md)
+* [Editing a sound bite in the Waveform Editor](editing/editing-sound-bite-in-waveform-editor.md)
+* [Adjusting audio level within a sound bite](editing/adjusting-audio-level-within-sound-bite.md)
+* [Deleting part of a sound bite](editing/deleting-part-of-sound-bite.md)
+* [Using undo and the History panel](editing/using-undo-and-history.md)
+* [Switching between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
+* [Saving all of your work](editing/saving-all-of-your-work.md)
+* [Working with additional audio files](editing/working-with-additional-audio-files.md)
+* [Moving multiple sound bites](editing/moving-multiple-sound-bites.md)
+* [Adding narration](editing/adding-narration.md)
+* [Adding ambient sound](editing/adding-ambient-sound.md)
+* [Applying fades to sound bites](editing/applying-fades-to-sound-bites.md)
+* [Using track controls](editing/using-track-controls.md)
+* [Automating track volume with keyframes](editing/automating-track-volume.md)
 
-# Exporting
-  * [Finalizing your script](exporting/finalizing-your-script.md)
-  * [Exporting an MP3](exporting/exporting-mp3.md)
+## Exporting
+* [Finalizing your script](exporting/finalizing-your-script.md)
+* [Exporting an MP3](exporting/exporting-mp3.md)
 
+## Glossary
 * [Glossary](GLOSSARY.md)
-
 
