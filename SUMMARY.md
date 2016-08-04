@@ -33,8 +33,7 @@
   * [Using track controls](editing/using-track-controls.md)
   * [Automating track volume with keyframes](editing/automating-track-volume.md)
 
-* [Exporting](exporting/README.md)
-
+# Exporting
   * [Finalizing your script](exporting/finalizing-your-script.md)
   * [Exporting an MP3](exporting/exporting-mp3.md)
 
