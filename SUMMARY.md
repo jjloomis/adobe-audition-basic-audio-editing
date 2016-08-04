@@ -15,8 +15,7 @@
 * [Exporting audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 * [Writing a draft script](listening-and-logging/writing-draft-script.md)
 
-* [Editing](editing/README.md)
-
+# Editing
   * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
   * [Adding sound bite WAV files to tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
   * [Deleting a sound bite from a track](editing/deleting-sound-bite-from-track.md)
