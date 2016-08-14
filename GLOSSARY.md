@@ -1,7 +1,6 @@
 # Glossary
 
-## MP3
-
+## MP3 
 Compressed audio file format. Final product that can delivered via the web.
 
 ## SESX
