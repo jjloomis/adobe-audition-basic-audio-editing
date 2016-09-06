@@ -39,8 +39,9 @@
 * [Finalizing your script](exporting/finalizing-your-script.md)
 * [Exporting an MP3](exporting/exporting-mp3.md)
 
+## Troubleshooting
+
 ## Glossary
 * [Glossary](GLOSSARY.md)
 
-## Troubleshooting
 
