@@ -4,6 +4,7 @@
 * [Intoduction](README.md)
 
 ## Listening and logging
+* [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Opening Audition](listening-and-logging/opening-audition.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Copying WAV files into your project folder](listening-and-logging/copying-wav-files-into-project-folder.md)
