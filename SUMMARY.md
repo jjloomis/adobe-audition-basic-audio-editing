@@ -42,3 +42,5 @@
 ## Glossary
 * [Glossary](GLOSSARY.md)
 
+## Troubleshooting
+
