@@ -6,6 +6,6 @@ Levels may appear red on occasion, but make sure they never trigger the peak ind
 
 If there are points in your waveform that are either too high or too low in volume, you can adjust those areas.
 
-1.	In the Waveform Editor, hover your mouse pointer over the waveform until it becomes an I-beam pointer. 
-2.	Click and drag to select the waveform area you’d like to adjust. The area will become highlighted and the Adjust Amplitude tool will appear.
-3.	Use the dial in the Adjust Amplitude tool to change to volume of the selected waveform area. It’s best to adjust your volume in increments of 3 decibels. Play back your audio as you make your adjustments and always wear headphones as you edit.
+1. In the Waveform Editor, hover your mouse pointer over the waveform until it becomes an I-beam pointer. 
+2. Click and drag to select the waveform area you’d like to adjust. The area will become highlighted and the Adjust Amplitude tool will appear.
+3. Use the dial in the Adjust Amplitude tool to change to volume of the selected waveform area. It’s best to adjust your volume in increments of 3 decibels. Play back your audio as you make your adjustments and always wear headphones as you edit.
