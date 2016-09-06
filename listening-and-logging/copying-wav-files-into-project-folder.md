@@ -1,4 +1,4 @@
-# Copying WAV files into your project folder
+# Copying WAV files from a Zoom H2n to your project folder
 
 Before you can work in Audition, you’ll need to copy the WAV files from your Zoom to your project folder.
 
