@@ -40,8 +40,8 @@
 * [Exporting an MP3](exporting/exporting-mp3.md)
 
 ## Troubleshooting
+* Warning boxes
 
 ## Glossary
 * [Glossary](GLOSSARY.md)
-
 
