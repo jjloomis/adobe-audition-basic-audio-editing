@@ -40,7 +40,7 @@
 * [Exporting an MP3](exporting/exporting-mp3.md)
 
 ## Troubleshooting
-* Warning boxes
+* [Warning boxes: What to click](warning-boxes.md)
 
 ## Glossary
 * [Glossary](GLOSSARY.md)
