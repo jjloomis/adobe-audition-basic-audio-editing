@@ -2,9 +2,6 @@
 
 Up until this point, you’ve been working with sound bites WAV files that were exported from your interview WAV files. Sometimes, you’ll have additional WAV files that contain ambient sound, music you recorded with a Zoom, or more interview material.
 
-1. In the Multitrack Session, go to File, choose Import and select File. 
-2. Import any audio files you want to add to your Multitrack Session.
-
 1. Copy your additional WAV files to your project folder.
 2. Import your additional WAV files into Audition.
 3. In the Files area, double-click a WAV file to open it in the Waveform Editor.
