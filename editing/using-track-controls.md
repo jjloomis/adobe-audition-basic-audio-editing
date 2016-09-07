@@ -12,10 +12,10 @@ In a Multritrack Session, track controls apply changes to all sound bites within
 
 | Track Controls |
 | --- |
-| Solo \(S\)| |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Name field | sndafd | 
+| Solo \(S\ | sfgsf |
+| Arm for Record | sfsfg |
+| Track Volume  | adfad |
+| Pan | sfgsf |
+| Peak Indicators | fadfad |
 
