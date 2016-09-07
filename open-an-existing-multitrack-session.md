@@ -8,6 +8,6 @@ To work with WAV files that were previously saved or copied to your project fold
 
 1. Connect to your class folder using JAMS Lab or Campus Computer Lab Mac.
 2. Navigate to and open your project folder. 
-3. Double-click your SESX file to open it. 
+3. Double-click your SESX file to open your Multitrack Session. 
 4. To continue working with previously saved WAV files that are in your project folder, import the WAV files.
 
