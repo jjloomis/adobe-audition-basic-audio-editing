@@ -2,6 +2,7 @@
 
 ## Class folder
 
+Network storage area for multimedia projects.
 
 ## MP3 
 
