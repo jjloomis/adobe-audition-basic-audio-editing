@@ -1,6 +1,6 @@
 # Creating a Multitrack Session
 
-Creating a Multitrack Session \(SESX file\) also creates a project folder. Your WAV files and SESX file need to live in this project folder. If any of these files are not in your project folder, your Audition project will not work.
+When you create a Multitrack Session file \(SESX file\), Audition also creates a project folder. Your WAV files and the SESX file need to live in this project folder. If any of these files are not in your project folder, your Audition project will not work.
 
 1. Go to File on the menu bar and select New.
 2. From the fly-out menu, select Multitrack Session.
