@@ -17,6 +17,7 @@
 * [Saving a WAV file with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
 * [Exporting audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 * Open an existing Multitrack Session
+* Working with other audio formats
 
 ## Editing
 * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
