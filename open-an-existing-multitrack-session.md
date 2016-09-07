@@ -6,3 +6,5 @@ Note: When you open an existing Multitrack Session, only WAV files that have bee
 
 To work with WAV that were previously saved or copied to your project folder, you'll need to import those WAV files into your Multitrack Session. 
 
+1. 
+ 
