@@ -1,7 +1,11 @@
 # Glossary
 
 ## MP3 
-Compressed audio file format. Final product that can delivered via the web.
+Compressed audio file format. Often used for web-based audio.
+
+## project folder
+
+Folder that contains SESX file and all WAV files associated with your project.
 
 ## SESX
 
