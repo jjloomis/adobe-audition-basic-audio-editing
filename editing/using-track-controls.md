@@ -10,10 +10,13 @@ In a Multritrack Session, track controls apply changes to all sound bites within
 * Pan: Controls where the sound comes from in the stereo spectrum \(i.e.—right, left or centered\).
 * Peak Indicators: Indicate if a track is too hot \(audio signal exceeding 0 decibels and causing distortion.\)
 
-
 | Track control | How it works |
 | --- | --- |
 |  |  |
-
+| | |
+| | |
+| | |
+| | |
+| | |
 
 
