@@ -20,7 +20,7 @@ Click the triangle and select Dismiss Warning. This triangle appears in the lowe
 
 ## The session 'your-project-name-here.sesx' contains files with unsaved changes
 
-Click Yes (or Yes To All).
+Click Yes (or Yes To All.)
 
 This warning box appears if you made changes to one of your WAV files. Audition wants to know if you want to keep those changes. You should click Yes (or Yes To All if you edited multiple WAV files.)
 
