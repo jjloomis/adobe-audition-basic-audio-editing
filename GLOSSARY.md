@@ -1,9 +1,13 @@
 # Glossary
 
+## Class folder
+
+
 ## MP3 
+
 Compressed audio file format. Often used for web-based audio.
 
-## project folder
+## Project folder
 
 Folder that contains SESX file and all WAV files associated with your project.
 
