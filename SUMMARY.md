@@ -17,7 +17,6 @@
 * [Saving a WAV file with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
 * [Exporting audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 * Open an existing Multitrack Session
-* Working with other audio formats
 
 ## Editing
 * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
@@ -30,6 +29,7 @@
 * [Switching between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
 * [Saving all of your work](editing/saving-all-of-your-work.md)
 * [Working with additional audio files](editing/working-with-additional-audio-files.md)
+* Working with other audio formats
 * [Moving multiple sound bites](editing/moving-multiple-sound-bites.md)
 * [Adding narration](editing/adding-narration.md)
 * [Adding ambient sound](editing/adding-ambient-sound.md)
