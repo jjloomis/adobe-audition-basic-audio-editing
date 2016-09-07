@@ -6,6 +6,7 @@
 ## Listening and logging
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Opening Audition](listening-and-logging/opening-audition.md)
+* [Open an existing Multitrack Session](open-an-existing-multitrack-session.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Copying WAV files from a Zoom H2n to your project folder](listening-and-logging/copying-wav-files-into-project-folder.md)
 * [Importing WAV files into Audtition](listening-and-logging/importing-wav-files.md)
@@ -15,7 +16,7 @@
 * [Adding Range Markers to a WAV file](listening-and-logging/adding-range-markers-to-wav-file.md)
 * [Saving a WAV file with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
 * [Exporting audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
-* [Writing a draft script](listening-and-logging/writing-draft-script.md)
+* Open an existing Multitrack Session
 
 ## Editing
 * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
