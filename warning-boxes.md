@@ -4,6 +4,8 @@
 
 Click No. This box appears because Audition thinks your WAV files are not in your project folder (even though they are in your project folder.) Sometimes, Audition doesn’t immediately recognize your class folder. When this happens, Audition will try to copy your WAV files into your project folder.
 
+Clicking No prevents the creation of duplicate WAV files in your project folder.
+
 
 ## This file is referenced in one or more multitrack sessions
 
