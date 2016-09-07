@@ -11,3 +11,9 @@ In a Multritrack Session, track controls apply changes to all sound bites within
 * Peak Indicators: Indicate if a track is too hot \(audio signal exceeding 0 decibels and causing distortion.\)
 
 
+| Track control | How it works |
+| --- | --- |
+|  |  |
+
+
+
