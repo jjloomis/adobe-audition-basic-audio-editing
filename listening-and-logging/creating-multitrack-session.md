@@ -5,10 +5,10 @@ Creating a Multitrack Session \(SESX file\) also creates a project folder. Your 
 1. Go to File on the menu bar and select New.
 2. From the fly-out menu, select Multitrack Session.
 3. In the New Multitrack Session dialog box, make the following changes:
-
-<pre>i. Change Sample Rate to 44100.
-  ii. In the Folder Location area, click Browse. Navigate to and select your class folder.
-  iii. In the Session Name field, enter a name for your project.
+<pre>
+i. Change Sample Rate to 44100.
+ii. In the Folder Location area, click Browse. Navigate to and select your class folder.
+iii. In the Session Name field, enter a name for your project.
 </pre>
 4. When finished, click OK.
 
