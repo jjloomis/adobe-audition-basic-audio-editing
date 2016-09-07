@@ -4,6 +4,10 @@
 
 Network storage area for multimedia projects.
 
+## Conformed-Files
+
+Folder that contains audio files that have been converted to match the settings of your Multitrack Session.
+
 ## MP3 
 
 Compressed audio file format. Often used for web-based audio.
