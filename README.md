@@ -11,7 +11,7 @@ Created by JJ Loomis
 
 ## Other formats
 
-PDF, Mobi, and ePub versions of this GitBook are availble here.
+PDF, Mobi, and ePub versions of this GitBook are availble for download here.
 
 ## GitHub
 
