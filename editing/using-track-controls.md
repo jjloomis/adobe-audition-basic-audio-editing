@@ -9,5 +9,5 @@ In a Multritrack Session, track controls apply changes to all sound bites within
 | Arm for Record | Used for multitrack recording in Audition. Not used in JAMS audio editing workflow. |
 | Track Volume | Controls the overall volume of the audio track. |
 | Pan | Controls where the sound comes from in the stereo spectrum \(right, left, or centered.\) |
-| Peak Indicators | Indicate if a track is too hot \(audio signal exceeding 0 decibels and causing distortion.\) |
+| Peak Indicators | Appear red if a track is too hot \(audio signal exceeding 0 decibels and causing distortion.\) |
 
