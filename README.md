@@ -6,11 +6,16 @@ Welcome to Adobe Audition CC 2015. You’ll use these instructions to create aud
 
 ## Credits
 
-Written by JJ Loomis
-
-## Fork the repository
+Created by JJ Loomis
 
 
+## Other formats
+
+PDF, Mobi, and ePub versions of this GitBook are availble here.
+
+## GitHub
+
+Fork the repository or contribute content/ fixes here.
 
 ## License
 
