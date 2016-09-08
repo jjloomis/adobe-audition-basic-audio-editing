@@ -2,21 +2,21 @@
 
 Before you can work in Audition, you’ll need to copy the WAV files from your Zoom to your project folder.
 
-## Zoom H2n (black)
+## Zoom H2n \(black\)
 
-1. Connect to your class folder using a JAMS Lab or Campus Computer Lab Mac.
+1. Connect to your class folder using a JAMS Lab or CCL Mac.
 2. Make sure Zoom H2n is off. \(Important: Zoom H2n must be off in order for this process to work.\)
 3. Connect the Zoom to a Mac using the USB cable. The Zoom H2n will power up \(even though it’s not turned on.\)
-4. On the Zoom H2n, use the Play wheel to select SD Card Reader.
+4. On the Zoom H2n, use the `Play` wheel to select `SD Card Reader`.
 5. A new drive titled H2N\_SD will appear on the Mac Desktop.
 6. On the Mac, double click the H2N\_SD drive to open it.
 7. Double click the Stereo folder.
 8. In the Stereo folder, double click FOLDER01. All of your audio files will appear in this folder. By default, audio files will have the following name format: ZOOM000X.WAV. \(Note: The date and time stamps for the audio files will not be correct.\)
 9. Select all of the WAV files in FOLDER01. \(Command A is an easy keyboard shortcut to select everything in a folder.\) Copy all of the WAV files to your project folder.
 
-## Zoom H2 (silver)
+## Zoom H2 \(silver\)
 
-To copy 
+
 
 ![](/assets/copying-wav-files-to-project-folder.png)
 
