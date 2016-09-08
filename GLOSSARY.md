@@ -10,7 +10,7 @@ Folder that contains audio files that have been converted to match the settings 
 
 ## MP3
 
-Compressed audio file format. Often used for web-based audio.
+Compressed audio file format. Often used for online delivery of audio.
 
 ## Multitrack Session
 
@@ -18,7 +18,7 @@ Project file \(SESX\) where sound bites are arranged spacially.
 
 ## PKF
 
-Peak file. Ignore these files.
+Peak file format that helps display waveforms. Ignore these files.
 
 ## Project folder
 
