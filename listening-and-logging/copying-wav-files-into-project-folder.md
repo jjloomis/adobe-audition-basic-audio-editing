@@ -1,4 +1,4 @@
-# Copying WAV files from a Zoom H2n to your project folder
+# Copying WAV files from a Zoom to your project folder
 
 Before you can work in Audition, you’ll need to copy the WAV files from your Zoom to your project folder.
 
@@ -15,8 +15,6 @@ Before you can work in Audition, you’ll need to copy the WAV files from your Z
 9. Select all of the WAV files in FOLDER01. \(Command A is an easy keyboard shortcut to select everything in a folder.\) Copy all of the WAV files to your project folder.
 
 ## Zoom H2 \(silver\)
-
-
 
 ![](/assets/copying-wav-files-to-project-folder.png)
 

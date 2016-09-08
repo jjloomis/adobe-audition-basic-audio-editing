@@ -2,7 +2,7 @@
 
 To continue working on an existing Multitrack Session, you'll open the SESX file in your project folder.
 
-Note: When you open an existing Multitrack Session, only WAV files that have been added to tracks will appear in the Files area.
+Note: When you open an existing Multitrack Session, only WAV files that have been added to tracks will appear in the Files panel \(upper-left corner.\)
 
 To work with WAV files that were previously saved or copied to your project folder, you'll need to import those WAV files into your Multitrack Session.
 
