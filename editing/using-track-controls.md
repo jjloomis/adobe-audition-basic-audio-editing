@@ -1,6 +1,6 @@
 # Using track controls
 
-In a Multritrack Session, track controls apply changes to all sound bites within the audio track.
+In a Multritrack Session, track controls apply changes to all sound bites in the audio track.
 
 | Track control | How it works |
 | --- | --- |
