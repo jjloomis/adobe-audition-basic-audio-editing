@@ -1,6 +1,6 @@
 # Working with additional WAV files
 
-Up until this point, you’ve been working with sound bites WAV files that were exported from your interview WAV files. Sometimes, you’ll need to work with additional WAV files that contain ambient sound, a performance, or more interview material.
+Up until this point, you’ve been working with sound bites WAV files that were exported from your interview WAV files. Sometimes, you’ll need to work with additional WAV files that contain ambient sound, a performance, more interview material, etc.
 
 1. Copy your additional WAV files into your project folder.
 2. Import your additional WAV files into Audition.
