@@ -27,7 +27,7 @@
 * [Using undo and the History panel](editing/using-undo-and-history.md)
 * [Switching between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
 * [Saving all of your work](editing/saving-all-of-your-work.md)
-* [Working with additional audio files](editing/working-with-additional-audio-files.md)
+* [Working with additional WAV files](editing/working-with-additional-audio-files.md)
 * [Working with other audio formats](working-with-other-audio-formats.md)
 * [Moving multiple sound bites](editing/moving-multiple-sound-bites.md)
 * [Adding narration](editing/adding-narration.md)
