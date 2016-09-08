@@ -15,7 +15,7 @@ PDF, Mobi, and ePub versions of this GitBook are availble here.
 
 ## GitHub
 
-Fork the repository or contribute content here.
+Fork this GitBook or contribute content/ fixes/ suggestions by visiting the GitHub repository.
 
 ## License
 
