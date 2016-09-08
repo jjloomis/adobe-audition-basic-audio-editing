@@ -6,7 +6,7 @@ Network storage area for multimedia projects.
 
 ## Conformed-Files
 
-Folder that contains audio files that have been converted to match the settings of your Multitrack Session.
+Folder that contains transcoded audio files that match your Multitrack Session settings. Do not delete or move these files.
 
 ## MP3
 
@@ -18,7 +18,7 @@ Project file \(SESX\) where sound bites are arranged spacially.
 
 ## PKF
 
-Peak file format that helps display waveforms. Ignore these files.
+Peak files that help display waveforms. Ignore these files.
 
 ## Project folder
 
