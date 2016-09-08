@@ -9,4 +9,4 @@ Note: Only apply fades to the sounds bites in your Multitrack Session. Fades cre
 3. Click and drag the fade handles to apply fades to the beginning and end of the sound bite.
 4. Repeat this process for all of your sound bites.
 
-Note: As you click and drag your fade handles, aim for a fade shape pictured on the sound bites below. The shape of a fade affects its speed.
+Note: As you click and drag your fade handles, aim for a fade shape pictured on the sound bites below. The shape of a fade affects its speed and style.
