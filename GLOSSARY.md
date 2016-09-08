@@ -14,7 +14,7 @@ Compressed audio file format. Often used for online delivery of audio.
 
 ## Multitrack Session
 
-Project file \(SESX\) where sound bites are arranged spacially.
+Project file \(SESX\) and editing interface used to arrange sound bites spatially.
 
 ## PKF
 
