@@ -1,6 +1,6 @@
 # Listening to your audio in the Waveform Editor
 
-In Audition, you’ll use the Waveform Editor to listen to your WAV files. 
+In Audition, you’ll use the Waveform Editor to listen to your WAV files. Later, you'll use the Waveform Editor to create sound bites and edit the content of your WAV files.
 
 1. In the Files area \(upper left corner\), double-click a WAV file. The WAV file will open in the Waveform Editor. 
 2. Click the Play button at the bottom of the screen or press the spacebar to play your WAV file.
