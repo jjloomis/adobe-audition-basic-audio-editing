@@ -34,4 +34,4 @@ High-quality audio file format. Used in recording and editing process.
 
 ## Waveform Editor
 
-Editing interface used to work with the content of WAV files.
+Editing interface used when working with the content of WAV files.
