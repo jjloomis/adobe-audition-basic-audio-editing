@@ -6,7 +6,7 @@ Network storage area for multimedia projects.
 
 ## Conformed-Files
 
-Folder that contains transcoded audio files that match your Multitrack Session settings. Do not delete or move the files in this folder.
+Folder that contains [transcoded](https://en.wikipedia.org/wiki/Transcoding "Transcoding on Wikipedia") audio files that match your Multitrack Session settings. Do not delete or move the files in this folder.
 
 ## MP3
 
