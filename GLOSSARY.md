@@ -12,6 +12,10 @@ Folder that contains audio files that have been converted to match the settings 
 
 Compressed audio file format. Often used for web-based audio.
 
+## Multitrack Session
+
+Project file (SESX) where sound bites are arranged spacially. 
+
 ## Project folder
 
 Folder that contains SESX file and all WAV files associated with your project.
