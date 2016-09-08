@@ -8,13 +8,17 @@ Network storage area for multimedia projects.
 
 Folder that contains audio files that have been converted to match the settings of your Multitrack Session.
 
-## MP3 
+## MP3
 
 Compressed audio file format. Often used for web-based audio.
 
 ## Multitrack Session
 
-Project file (SESX) where sound bites are arranged spacially. 
+Project file \(SESX\) where sound bites are arranged spacially.
+
+## PKF
+
+Peak file. Ignore these files.
 
 ## Project folder
 
