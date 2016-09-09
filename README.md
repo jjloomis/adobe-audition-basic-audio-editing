@@ -6,7 +6,7 @@ Welcome to Adobe Audition CC 2015. You’ll use these instructions to create aud
 
 ## Credits
 
-Created by JJ Loomis
+Written by JJ Loomis
 
 ## Other formats
 
