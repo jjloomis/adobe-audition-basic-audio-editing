@@ -10,8 +10,8 @@ Before you can work in Audition, you’ll need to copy the WAV files from your Z
 4. On the Zoom H2n, use the `Play` wheel to select `SD Card Reader`.
 5. H2N\_SD will appear on the Mac Desktop \(on right\). Double-click the H2N\_SD drive to open it.
 6. In H2N\_SD, double-click the Stereo folder to open it.
-7. In the Stereo folder, double-click FOLDER01 to open it. All of your WAV files will be in this folder. Your WAV files will have the following name format: ZOOM000X.WAV. Note: The date and time stamps for the audio files will not be correct.
-8. Press `Command` `A` \(on keyboard\) Select all of the WAV files in FOLDER01. Copy all of the WAV files to your project folder.
+7. In the Stereo folder, double-click FOLDER01 to open it. All of your WAV files are in this folder. Your WAV files will have the following name format: ZOOM000X.WAV. Note: The date and time stamps for the WAV files will not be correct.
+8. Press `Command` `A` \(on keyboard\) to select all of the WAV files in FOLDER01. Copy all of the WAV files into your project folder. Note: You may need to open multiple Finder windows and navigate to your project folder in order to do this.
 
 ## Zoom H2 \(silver\)
 
