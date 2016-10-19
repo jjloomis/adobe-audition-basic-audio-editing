@@ -11,4 +11,5 @@ To work with WAV files that were previously saved or copied to your project fold
 3. Double-click your SESX file to open your Multitrack Session. 
 4. To continue working with previously saved WAV files that are in your project folder, [import the WAV files into Audition](https://jjloomis.gitbooks.io/adobe-audition-basic-audio-editing/content/listening-and-logging/importing-wav-files.html).
 
-![](/assets/opening-an-existing-audition-project.png)
+![Opening an Audition project file (SESX).](/assets/opening-an-existing-audition-project.png)
+
