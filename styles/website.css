@@ -4,6 +4,10 @@
   white-space: normal;
 }
 
+
+.markdown-section a { text-decoration: underline;}
+
+
 /*
 img {
     display: block;
