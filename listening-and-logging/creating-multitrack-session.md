@@ -11,5 +11,5 @@ When you create a Multitrack Session \(SESX file\), Audition creates a project f
 
 4. When finished, click `OK`.
 
-![Text text texst extra long text Text text texst extra long text Text text texst extra long text](/assets/creating-multitrack-session.png)
+![Creating a Multitrack Session.](/assets/creating-multitrack-session.png)
 

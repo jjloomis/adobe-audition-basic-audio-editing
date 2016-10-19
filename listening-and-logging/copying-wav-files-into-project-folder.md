@@ -13,5 +13,5 @@ Before you can work in Audition, you’ll need to copy the WAV files from your Z
 7. In the Stereo folder, double-click FOLDER01 to open it. All of your WAV files are in this folder. Your WAV files will have the following name format: ZOOM000X.WAV. Note: The date and time stamps for the WAV files will not be correct.
 8. Press `Command` `A` \(on keyboard\) to select all of the WAV files in FOLDER01. Copy all of the WAV files into your project folder. Note: You may need to [open multiple Finder windows](https://jjloomis.gitbooks.io/file-and-folder-management/content/opening-multiple-finder-windows.html) and [navigate to your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) in order to do this.
 
-![](/assets/copying-wav-files-to-project-folder.png)
+![Renamed WAV files in the project folder.](/assets/copying-wav-files-to-project-folder.png)
 

@@ -11,6 +11,6 @@ Adding Range Markers to WAV files is an essential part of the JAMS audio editing
 5. In the Markers area on the left, click the default Range Marker name \(probably “Marker 01”\) and give your keeper sound bite area a better name to help you remember its content. Follow [file and folder naming conventions](https://jjloomis.gitbooks.io/file-and-folder-management/content/file-and-folder-naming-conventions.html).
 6. Repeat this process to add Range Markers to all of your keeper sound bite areas.
 
-![](/assets/adding-range-markers.png)
+![Range Markers in the Markers panel.](/assets/adding-range-markers.png)
 
 

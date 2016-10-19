@@ -7,5 +7,5 @@ In Audition, you’ll use the Waveform Editor to listen to your WAV files. Later
 3. If necessary, click in the Timeline to reposition Playhead.
 4. Click the `Stop` button or press the spacebar to stop playing the WAV file. Note: Do not use the `Pause` button at the bottom of the screen. Only use `Play` or `Stop`.
 
-![](/assets/listening-in-waveform-editor.png)
+![A WAV file playing in the Waveform Editor.](/assets/listening-in-waveform-editor.png)
 
