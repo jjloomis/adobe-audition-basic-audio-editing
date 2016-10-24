@@ -11,5 +11,5 @@ If you’re working on a project that requires narration, you can create sound b
 7. Switch back to your Multitrack Session.
 8. Add your sound bite WAV files to tracks in your Multitrack Session.
 
-![](/assets/adding-narration.png)
+![Adding narration.](/assets/adding-narration.png)
 
