@@ -6,3 +6,4 @@ Before you can add your sound bite WAV files to your Multitrack Session, you’l
 2. In the Import File dialog box, navigate to your project folder and select your sound bite WAV files. Press and hold the`Command` key \(on your keyboard\) to select multiple WAV files. \(Do not select PKF files.\)
 3. Click `Open`. The sound bite WAV files will appear Files panel \(upper-left corner\).
 
+![](/assets/importing-sound-bite-wav-files.png)
