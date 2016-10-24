@@ -10,3 +10,4 @@ If there are points in your waveform that are too high or low in volume, you can
 2. Click and drag to select the waveform area you’d like to adjust. The area will appear highlighted and the Adjust Amplitude tool will appear.
 3. Use the dial in the Adjust Amplitude tool to change to volume of the selected waveform area. It’s best to adjust your volume in increments of 3 decibels. Play back your audio as you make your adjustments and always wear headphones as you edit.
 
+![](/assets/adjusting-audio-level.png)
