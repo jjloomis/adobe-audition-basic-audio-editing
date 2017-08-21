@@ -6,7 +6,7 @@ Welcome to Adobe Audition CC 2015. You’ll use these instructions to create aud
 
 ## Author
 
-JJ Loomis
+Jeffrey John Loomis
 
 ## Other formats
 
