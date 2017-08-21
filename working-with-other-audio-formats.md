@@ -1,6 +1,6 @@
 # Working with other audio formats
 
-You can work with additional audio formats \(MP3, AIFF, etc.\) in Adobe Audition. When working with these other audio formats, the editing process remains the same. However, Audition may create a Conformed-Files folder within your project folder. Do not delete, move or rename this folder.
+In addition to WAV files, you can work with other audio file formats \(MP3, AIFF, etc.\) in Audition. When working with these other audio formats, the editing process remains the same. However, Audition may create a Conformed-Files folder within your project folder. Do not delete, move or rename this folder.
 
 1. Copy your additional audio files into your project folder.
 2. Import your additional audio files into Audition \(following the same process used when importing WAV files.\)
