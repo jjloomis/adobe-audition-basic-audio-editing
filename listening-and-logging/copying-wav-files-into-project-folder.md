@@ -2,7 +2,7 @@
 
 Before you can work in Audition, you’ll need to copy the WAV files from your Zoom to your project folder.
 
-## Zoom H2n \(black\)
+## Zoom H2n
 
 1. Connect to your class folder using a [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [CCL Mac](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-ccl.html).
 2. Make sure Zoom H2n is off. Note: The Zoom H2n must be off in order for this process to work.
