@@ -1,8 +1,8 @@
-# Adobe Audition CC 2015: Basic Audio Editing
+# Adobe Audition CC 2018: Audio Editing Basics
 
 ## Introduction
 
-Welcome to Adobe Audition CC 2015. You’ll use these instructions to create audio projects for JAMS classes. Because Adobe Audition is a destructive audio editing program, you’ll need to follow the JAMS audio editing workflow outlined in these instructions. The JAMS audio editing workflow will prevent you from losing portions of your audio files as you edit on your project.
+Welcome to Adobe Audition CC 2018 Audio Editing Basics. You’ll use these instructions to create audio projects for JAMS classes. Because Adobe Audition is a destructive audio editing program, you’ll need to follow the JAMS audio editing workflow outlined in these instructions. The JAMS audio editing workflow will prevent you from losing portions of your audio files as you edit on your project.
 
 ## Author
 
