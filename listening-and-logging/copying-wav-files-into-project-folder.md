@@ -1,10 +1,11 @@
 # Copying WAV files from a Zoom to your project folder
 
-Before you can work in Audition, you’ll need to copy the WAV files from your Zoom to your project folder.
+To edit the WAV files on your Zoom recorder, you'll copy the WAV files from the Zoom into your project folder. Note: Never import WAV files on the Zoom directly into Audition. Always copy the WAV files into your project folder before importing them into Audition. 
+
 
 ## Zoom H2n
 
-1. Connect to your class folder using a [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [CCL Mac](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-ccl.html).
+1. Connect to your class folder using a [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [CCL Mac](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-campus-computer-lab.html).
 2. Make sure Zoom H2n is off. Note: The Zoom H2n must be off in order for this process to work.
 3. Connect the Zoom to a Mac using the USB cable. The Zoom H2n will power on. Connection options will appear on the Zoom's screen.
 4. On the Zoom H2n, use the **Play** wheel to select **SD Card Reader**.
