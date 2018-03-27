@@ -1,10 +1,12 @@
 # Summary
 
 ## Introduction
+
 * [Intoduction](README.md)
 
 ## Listening and logging
-* [Connecting to your class folder](connecting-to-your-class-folder.md)
+
+* [Connecting to Your Class Folder](connecting-to-your-class-folder.md)
 * [Opening Audition](listening-and-logging/opening-audition.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Opening an existing Multitrack Session](open-an-existing-multitrack-session.md)
@@ -18,6 +20,7 @@
 * [Exporting audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 
 ## Editing
+
 * [Importing sound bite WAV files](editing/importing-sound-bite-wav-files.md)
 * [Adding sound bite WAV files to tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
 * [Deleting a sound bite from a track](editing/deleting-sound-bite-from-track.md)
@@ -36,12 +39,15 @@
 * [Automating track volume with keyframes](editing/automating-track-volume.md)
 
 ## Exporting
+
 * [Finalizing your script](exporting/finalizing-your-script.md)
 * [Exporting an MP3](exporting/exporting-mp3.md)
 
 ## Troubleshooting
+
 * [Warning boxes: What to click](warning-boxes.md)
 
 ## Glossary
+
 * [Glossary](GLOSSARY.md)
 
