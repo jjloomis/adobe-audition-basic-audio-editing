@@ -1,4 +1,4 @@
-# Adding Range Markers to a WAV file
+# Adding Range Markers to a WAV File
 
 As you listen to your audio file, you’ll probably find yourself thinking, “I want to use this sound bite in my project—it’s a keeper.” To make a note of that keeper sound bite, you’ll add a Range Marker to your WAV file.
 

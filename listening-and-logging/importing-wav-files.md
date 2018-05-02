@@ -1,4 +1,4 @@
-# Importing WAV files into Audition
+# Importing WAV Files Into Audition
 
 After copying your WAV files into your project folder, you’ll import them into Audition.
 

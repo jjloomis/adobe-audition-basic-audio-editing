@@ -1,4 +1,4 @@
-# Editing a sound bite in the Waveform Editor
+# Editing a Sound Bite in the Waveform Editor
 
 After you’ve created a logical order for your sound bites in the Multitrack Session, you’ll need to adjust the content of your sound bites \(making them shorter and tighter, adjusting audio levels, deleting “uhs,” etc.\) To do these types of edits, you’ll use the Waveform Editor.
 

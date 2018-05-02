@@ -1,4 +1,4 @@
-# Raising or lowering the audio level of a WAV file
+# Raising or Lowering the Audio Level of a WAV File
 
 During playback, your audio levels should fall somewhere between -12 and -6 decibels in the Levels panel \(near the bottom of the screen.\) If your audio levels are consistently low or high, you can select the entire waveform and adjust the amplitude.
 

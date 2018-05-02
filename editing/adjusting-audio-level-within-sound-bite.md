@@ -1,4 +1,4 @@
-# Adjusting audio level within a sound bite in the Waveform Editor
+# Adjusting Audio Level Within a Sound Bite in the Waveform Editor
 
 Ideally, the volume of your waveform should consistently range from -12 to -6 decibels. In the Levels panel, you should see the levels going from green into yellow during playback.
 

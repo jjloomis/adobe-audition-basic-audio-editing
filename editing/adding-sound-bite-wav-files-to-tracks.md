@@ -1,4 +1,4 @@
-# Adding sound bite WAV files to tracks
+# Adding Sound Bite WAV Files to Tracks
 
 1. Click and drag a sound bite WAV file from the Files panel to an audio track. 
 2. To position a sound bite in the audio track, click and drag its titlebar \(green bar at top of sound bite.\) Be sure the first sound bite is flush with the start of its audio track.   

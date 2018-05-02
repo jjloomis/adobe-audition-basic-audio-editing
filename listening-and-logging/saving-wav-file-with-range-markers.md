@@ -1,4 +1,4 @@
-# Saving a WAV file with Range Markers
+# Saving a WAV File with Range Markers
 
 After creating your Range Markers, you’ll need to save your work. This will add all of your Range Markers to your WAV file.
 

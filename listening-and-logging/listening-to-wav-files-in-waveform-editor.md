@@ -1,4 +1,4 @@
-# Listening to your audio in the Waveform Editor
+# Listening to Your Audio in the Waveform Editor
 
 In Audition, you’ll use the Waveform Editor to listen to your WAV files. Later, you'll use the Waveform Editor to create sound bites and edit the content of your WAV files.
 

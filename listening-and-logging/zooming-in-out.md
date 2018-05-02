@@ -1,4 +1,4 @@
-# Zooming in and out
+# Zooming In and Out
 
 To get a tighter or wider view of your waveforms, you can use the Zoom In and Zoom Out tools.
 

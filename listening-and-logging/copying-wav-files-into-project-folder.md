@@ -1,4 +1,4 @@
-# Copying WAV files from a Zoom to your project folder
+# Copying WAV Files From a Zoom to Your Project Folder
 
 Before editing the audio you captured with your Zoom recorder, you'll copy the WAV files on its SD card into your project folder. 
 

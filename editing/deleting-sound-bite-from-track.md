@@ -1,4 +1,4 @@
-# Deleting a sound bite from a track
+# Deleting a Sound Bite from a Track
 
 Deleting a sound bite in an audio track removes it from the audio track. This does not delete the sound bite WAV file from your project folder.
 

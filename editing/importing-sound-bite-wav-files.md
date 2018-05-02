@@ -1,4 +1,4 @@
-# Importing sound bite WAV files
+# Importing Sound Bite WAV Files
 
 Before you can add your sound bite WAV files to your Multitrack Session, you’ll need to import them into the Files panel.
 

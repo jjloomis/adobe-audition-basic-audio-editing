@@ -1,4 +1,4 @@
-# Exporting audio of Range Markers
+# Exporting Audio of Range Markers
 
 After saving your WAV file, you’ll export the audio of your Range Markers to your project folder. This process uses the audio within your Range Markers to create sound bite WAV files in your project folder.
 
