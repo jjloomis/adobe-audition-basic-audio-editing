@@ -1,4 +1,4 @@
-# Warning boxes: What to click
+# Warning Boxes: What to Click
 
 ## One or more files used by this Multitrack Session are located outside of the Session folder
 

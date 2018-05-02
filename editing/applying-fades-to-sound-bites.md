@@ -1,4 +1,4 @@
-# Applying fades to sound bites
+# Applying Fades to Sound Bites
 
 As a general rule, every sound bite in a Multitrack Sesssion should have a slight fade applied to the beginning and end of it. This creates smooth transitions from sound bite to sound bite.
 

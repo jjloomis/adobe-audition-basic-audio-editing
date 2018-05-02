@@ -26,26 +26,26 @@
 * [Deleting a Sound Bite from a Track](editing/deleting-sound-bite-from-track.md)
 * [Editing a Sound Bite in the Waveform Editor](editing/editing-sound-bite-in-waveform-editor.md)
 * [Adjusting Audio Level Within a Sound Bite in the Waveform Editor](editing/adjusting-audio-level-within-sound-bite.md)
-* [Deleting part of a sound bite](editing/deleting-part-of-sound-bite.md)
-* [Using undo and the History panel](editing/using-undo-and-history.md)
-* [Switching between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
-* [Saving all of your work](editing/saving-all-of-your-work.md)
-* [Working with additional WAV files](editing/working-with-additional-audio-files.md)
-* [Working with other audio formats](working-with-other-audio-formats.md)
-* [Moving multiple sound bites](editing/moving-multiple-sound-bites.md)
-* [Adding narration](editing/adding-narration.md)
-* [Applying fades to sound bites](editing/applying-fades-to-sound-bites.md)
-* [Using track controls](editing/using-track-controls.md)
-* [Automating track volume with keyframes](editing/automating-track-volume.md)
+* [Deleting Part of a Sound Bite](editing/deleting-part-of-sound-bite.md)
+* [Using Undo and the History Panel](editing/using-undo-and-history.md)
+* [Switching Between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
+* [Saving All of Your Work](editing/saving-all-of-your-work.md)
+* [Working with Additional WAV Files](editing/working-with-additional-audio-files.md)
+* [Working with Other Audio Formats](working-with-other-audio-formats.md)
+* [Moving Multiple Sound Bites](editing/moving-multiple-sound-bites.md)
+* [Adding Narration](editing/adding-narration.md)
+* [Applying Fades to Sound Bites](editing/applying-fades-to-sound-bites.md)
+* [Using Track Controls](editing/using-track-controls.md)
+* [Automating Track Volume with Keyframes](editing/automating-track-volume.md)
 
 ## Exporting
 
-* [Finalizing your script](exporting/finalizing-your-script.md)
+* [Finalizing Your Script](exporting/finalizing-your-script.md)
 * [Exporting an MP3](exporting/exporting-mp3.md)
 
 ## Troubleshooting
 
-* [Warning boxes: What to click](warning-boxes.md)
+* [Warning Boxes: What to Click](warning-boxes.md)
 
 ## Glossary
 

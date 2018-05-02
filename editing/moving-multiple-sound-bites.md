@@ -1,4 +1,4 @@
-# Moving multiple sound bites
+# Moving Multiple Sound Bites
 
 Occasionally, it may be necessary to move several sound bites at the same time.
 

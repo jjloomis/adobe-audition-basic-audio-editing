@@ -1,4 +1,4 @@
-# Working with other audio formats
+# Working with Other Audio Formats
 
 In addition to WAV files, you can work with other audio file formats \(MP3, AIFF, etc.\) in Audition. When working with these other audio formats, the editing process remains the same. However, Audition may create a Conformed-Files folder within your project folder. Do not delete, move or rename this folder.
 

@@ -1,4 +1,4 @@
-# Using track controls
+# Using Track Controls
 
 In a Multritrack Session, track controls apply changes to all sound bites in the audio track.
 

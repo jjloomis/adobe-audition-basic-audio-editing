@@ -1,4 +1,4 @@
-# Switching between Waveform Editor and Multitrack Session
+# Switching Between Waveform Editor and Multitrack Session
 
 After working with sound bites in the Waveform Editor, you'll need to switch back to your Multitrack Session.
 

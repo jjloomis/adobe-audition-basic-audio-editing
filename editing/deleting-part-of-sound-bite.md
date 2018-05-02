@@ -1,4 +1,4 @@
-# Deleting part of a sound bite
+# Deleting Part of a Sound Bite
 
 1. In the Waveform Editor, hover your mouse pointer near the beginning of the area you’d like to delete.
 2. Click and drag the area you’d like to delete. The selected area will appear highlighted.
