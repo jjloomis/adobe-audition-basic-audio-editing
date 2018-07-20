@@ -4,7 +4,7 @@
 
 * [Intoduction](README.md)
 
-## Listening and logging
+## Listening and Logging
 
 * [Connecting to Your Class Folder](connecting-to-your-class-folder.md)
 * [Opening Audition](listening-and-logging/opening-audition.md)
