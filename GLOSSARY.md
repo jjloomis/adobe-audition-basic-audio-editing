@@ -24,6 +24,10 @@ Peak files that help display waveforms. Ignore these files.
 
 Folder that contains SESX file and all WAV files associated with your project.
 
+## Range marker
+
+Area in a WAV file that denotes a keeper sound bite. A range marker will always have a start and end time in the Markers panel.
+
 ## SESX
 
 Adobe Audition Multitrack Session project file.
@@ -35,3 +39,4 @@ High-quality audio file format. Used in recording and editing process.
 ## Waveform Editor
 
 Editing interface used when working with the content of WAV files.
+
