@@ -18,7 +18,7 @@ Project file \(SESX\) and editing interface used when arranging the order and ca
 
 ## Pad
 
-Additional audio at the beginning and end of a sound bite. Useful when editing in a multitrack session.
+Additional audio at the beginning and end of a sound bite.
 
 ## PKF
 
@@ -30,7 +30,7 @@ Folder that contains SESX file and all WAV files associated with your project.
 
 ## Range marker
 
-Area in a WAV file that denotes a keeper sound bite. Will always have a start and end time in the Markers panel.
+Area in a WAV file that denotes a keeper sound bite. 
 
 ## SESX
 
@@ -40,7 +40,7 @@ Adobe Audition Multitrack Session project file.
 
 High-quality audio file format. Used in recording and editing process.
 
-## Waveform Editor
+## Waveform editor
 
 Editing interface used when working with the content of WAV files.
 
