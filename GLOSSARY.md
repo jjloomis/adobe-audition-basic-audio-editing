@@ -18,7 +18,7 @@ Project file \(SESX\) and editing interface used when arranging the order and ca
 
 ## Pad
 
-Additional audio at the beginning and end of a sound bite. Useful for editing purposes. 
+Additional audio at the beginning and end of a sound bite. Useful when editing in a multitrack session.
 
 ## PKF
 
