@@ -30,7 +30,7 @@ Folder that contains SESX file and all WAV files associated with your project.
 
 ## Range marker
 
-Area in a WAV file that denotes a keeper sound bite. 
+Area in a WAV file that denotes a keeper sound bite.
 
 ## SESX
 
@@ -38,7 +38,7 @@ Adobe Audition Multitrack Session project file.
 
 ## WAV
 
-High-quality audio file format. Used in recording and editing process.
+High-quality audio file format. 
 
 ## Waveform editor
 
