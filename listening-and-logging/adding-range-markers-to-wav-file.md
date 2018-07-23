@@ -1,8 +1,8 @@
 # Adding Range Markers to a WAV File
 
-As you listen to your audio file, you’ll probably find yourself thinking, “I want to use this sound bite in my project—it’s a keeper.” To make a note of that keeper sound bite, you’ll add a **Range Marker** to your WAV file.
+As you listen to your audio file, you’ll probably find yourself thinking, “I want to use this sound bite in my project—it’s a keeper.” To make a note of that keeper sound bite, you’ll add a range marker to your WAV file.
 
-Adding **Range Markers** to WAV files is an essential part of the JAMS audio editing workflow. Later, you’ll use your **Range Markers** to create sound bite WAV files that will be added to audio tracks in your Multitrack Session.
+Adding range markers to WAV files is an essential part of the JAMS audio editing workflow. Later, you’ll use your **Range Markers** to create sound bite WAV files that will be added to audio tracks in your Multitrack Session.
 
 1. While in the Waveform Editor, click the **Markers** tab \(left panel.\)
 2. Hover your **mouse pointer** in the waveform** **area. Your **mouse pointer** will appear as an **I-bean pointer**.
