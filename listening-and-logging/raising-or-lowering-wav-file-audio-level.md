@@ -1,6 +1,6 @@
 # Raising or Lowering the Audio Level of a WAV File
 
-During playback, your audio levels should fall somewhere between -12 and -6 decibels in the Levels panel \(near the bottom of the screen.\) If your audio levels are consistently low or high, you can select the entire waveform and adjust the amplitude.
+During playback, your audio levels should fall somewhere between -12 and -6 decibels in the **Levels** panel \(bottom of screen.\) If your audio levels are consistently low or high, you can select the entire waveform and adjust the overall amplitude of the WAV file.
 
 1. While in the Waveform Editor, go to **Edit** on the menu bar.  
 2. From the **Edit** menu, go to **Select** and then choose **Select All**. The waveform will appear highlighted. 
