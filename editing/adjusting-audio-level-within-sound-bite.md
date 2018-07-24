@@ -1,6 +1,6 @@
 # Adjusting Audio Level Within a Sound Bite in the Waveform Editor
 
-The audio level of your waveform should generally range from -12 to -6 decibels during playback. In the **Levels** panel, you should see your audio levels going from green into yellow if this is the case.
+The audio level of your waveform should generally range from -12 to -6 decibels during playback. In the **Levels** panel, you'll see your audio levels going from green into yellow if this is the case.
 
 Audio levels may appear red on occasion, but they should not trigger the **peak indicators**. **Peak indicators** are the squares at the end of the **Levels** panel that stay red if your audio signal is too hot \(an audio signal exceeding 0 decibels that causes distortion.\)
 
