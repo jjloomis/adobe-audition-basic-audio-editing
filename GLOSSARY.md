@@ -12,7 +12,7 @@ Folder that contains [transcoded](https://en.wikipedia.org/wiki/Transcoding "Tra
 
 Compressed audio file format. Often used for online delivery of audio.
 
-## Multitrack Session
+## Multitrack session
 
 Project file \(SESX\) and editing interface used when arranging the order and cadence of sound bite WAV files.
 
@@ -28,17 +28,13 @@ Peak files that help display waveforms. Ignore these files.
 
 Folder that contains SESX file and all WAV files associated with your project.
 
-## Range marker
-
-Area in a WAV file that denotes a keeper sound bite.
-
 ## SESX
 
 Adobe Audition Multitrack Session project file.
 
 ## WAV
 
-High-quality audio file format. 
+High-quality audio file format.
 
 ## Waveform editor
 
