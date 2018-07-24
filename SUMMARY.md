@@ -22,7 +22,7 @@
 ## Editing
 
 * [Importing Sound Bite WAV Files](editing/importing-sound-bite-wav-files.md)
-* [A dding Sound Bite WAV Files to Tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
+* [Adding Sound Bite WAV Files to Tracks](editing/adding-sound-bite-wav-files-to-tracks.md)
 * [Deleting a Sound Bite from a Track](editing/deleting-sound-bite-from-track.md)
 * [Editing a Sound Bite in the Waveform Editor](editing/editing-sound-bite-in-waveform-editor.md)
 * [Adjusting Audio Level Within a Sound Bite in the Waveform Editor](editing/adjusting-audio-level-within-sound-bite.md)
