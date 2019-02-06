@@ -19,6 +19,7 @@
 * [Saving a WAV File with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
 * [Exporting Audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 * [Downloading media files from YouTube to your project folder](downloading-media-files-from-youtube-to-your-project-folder.md)
+  * [Downloading Free Music Into Your Project Folder](downloading-media-files-from-youtube-to-your-project-folder/downloading-free-music-into-your-project-folder.md)
 
 ## Editing
 
