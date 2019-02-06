@@ -11,7 +11,7 @@
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Opening an Existing Multitrack Session](open-an-existing-multitrack-session.md)
 * [Copying WAV Files From a Zoom to Your Project Folder](listening-and-logging/copying-wav-files-into-project-folder.md)
-* [Downloading media files from YouTube to your project folder](downloading-media-files-from-youtube-to-your-project-folder.md)
+* [Downloading Media Files From YouTube to Your Project Folder](downloading-media-files-from-youtube-to-your-project-folder.md)
 * [Downloading Free Music Into Your Project Folder](downloading-media-files-from-youtube-to-your-project-folder/downloading-free-music-into-your-project-folder.md)
 * [Importing WAV Files Into Audition](listening-and-logging/importing-wav-files.md)
 * [Listening to Your Audio in the Waveform Editor](listening-and-logging/listening-to-wav-files-in-waveform-editor.md)
