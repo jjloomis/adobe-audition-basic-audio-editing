@@ -1,4 +1,4 @@
-# Adobe Audition CC 2018: Audio Editing Basics
+# Adobe Audition 2020 Basics \| Lab Edition \(macOS\)
 
 ## Introduction
 
