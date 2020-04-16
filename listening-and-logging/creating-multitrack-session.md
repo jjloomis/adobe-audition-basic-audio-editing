@@ -7,7 +7,7 @@ When you create a Multitrack Session \(SESX file\), Audition creates a project f
 3. In the New Multitrack Session dialog box, make the following changes:  
    1. Change Sample Rate to **44100**.  
    2. In the Folder Location area, click **Browse**. Navigate to and select your class folder.  
-   3. In the Session Name field, enter a name for your project.
+   3. In the Session Name field, enter **your-last-name-project-name**. Example: **jones-interview-project**.
 
 4. When finished, click **OK**.
 
