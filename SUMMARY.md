@@ -40,6 +40,7 @@
 * [Applying Fades to Sound Bites](editing/applying-fades-to-sound-bites.md)
 * [Using Track Controls](editing/using-track-controls.md)
 * [Automating Track Volume with Keyframes](editing/automating-track-volume.md)
+* [Recording Narration with Zoom H2N](editing/recording-narration-with-zoom-h2n.md)
 
 ## Exporting
 
