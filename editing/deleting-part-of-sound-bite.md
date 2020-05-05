@@ -5,5 +5,3 @@
 3. Press the **spacebar** \(on keyboard\) to preview the area you’d like to delete. **Note**: You can always delete a small portion of the area and then delete more.
 4. Press the **Delete** key \(on keyboard.\)
 
-
-

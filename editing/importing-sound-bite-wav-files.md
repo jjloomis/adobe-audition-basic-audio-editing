@@ -6,5 +6,5 @@ Before you can add your sound bite WAV files to your Multitrack Session, you’l
 2. In the **Import File** dialog box, [navigate](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) to your project folder and select your sound bite WAV files. Press and hold the **Command** key \(on keyboard\) to select multiple WAV files. \(Do not select PKF files.\)
 3. Click **Open**. The sound bite WAV files will appear **Files** panel \(upper-left corner\).
 
-![Importing sound bite WAV files.](/assets/importing-sound-bite-wav-files.png)
+![Importing sound bite WAV files.](../.gitbook/assets/importing-sound-bite-wav-files.png)
 

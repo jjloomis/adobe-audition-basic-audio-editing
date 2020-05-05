@@ -5,5 +5,5 @@ If you go overboard with amplitude adjustments or deletions, you can step back i
 * Go to to **Edit** on the menu bar and select **Undo**.
 * Use the **History** panel \(lower-left\) to step back to a specific point in time.
 
-![Using undo and the History panel.](/assets/using-undo.png)
+![Using undo and the History panel.](../.gitbook/assets/using-undo.png)
 

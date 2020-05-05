@@ -1,6 +1,6 @@
 # Working with Other Audio Formats
 
-In addition to WAV files, you can work with other audio file formats \(MP3, [M4A](https://en.wikipedia.org/wiki/Apple_Lossless#Codec), etc.\) in Audition. When working with these other audio formats, the editing process remains the same. 
+In addition to WAV files, you can work with other audio file formats \(MP3, [M4A](https://en.wikipedia.org/wiki/Apple_Lossless#Codec), etc.\) in Audition. When working with these other audio formats, the editing process remains the same.
 
 Note: Audition may create a Conformed-Files folder within your project folder. Do not delete, move or rename this folder.
 
@@ -12,6 +12,4 @@ Note: Audition may create a Conformed-Files folder within your project folder. D
 6. Import your sound bite audio files into Audition.
 7. Switch back to your Multitrack Session. 
 8. Add your sound bite audio files to tracks in your Multitrack Session.
-
-
 

@@ -1,3 +1,4 @@
-# Finalizing your script
+# Finalizing Your Script
 
 When your sound bites, natural sound and narration are edited and positioned properly in the Multitrack Session, listen to the piece one more time to be sure it’s finished and sounds just the way you want it to. Then, listen to the piece while following along on your script. Be sure sound bites are transcribed correctly, and the story in the Multitrack Session “matches” the story on your Word document. When grading your piece, the instructor will listen to the audio story while following along on your script. Double-check that the script follows correct JAMS script format.
+

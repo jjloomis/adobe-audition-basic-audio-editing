@@ -5,5 +5,3 @@ Deleting a sound bite in an audio track removes it from the audio track. This do
 1. Click the sound bite you’d like to delete in an audio track. It will appear highlighted. 
 2. Press the **Delete** key \(on keyboard.\)
 
-
-

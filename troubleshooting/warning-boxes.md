@@ -8,8 +8,6 @@ This box appears because Audition thinks your WAV files are not in your project 
 
 Clicking **No** prevents the creation of duplicate WAV files in your project folder.
 
----
-
 ## This file is referenced in one or more multitrack sessions
 
 Click **OK**.
@@ -18,15 +16,11 @@ This box appears because you are editing a WAV file that appears in your multitr
 
 If you do edit the content of a WAV file after you’ve arranged your sound bites in your multitrack project, know that you will need to rearrange all of the sound bites that appear after the edited WAV file in your multitrack project.
 
----
-
 ## Yellow triangle with exclamation point in it
 
 Click the triangle and select **Dismiss Warning**.
 
 This triangle appears in the lower left corner of a multitrack project sound bite after you’ve deleted part of it in the Waveform Editor. You can dismiss this warning.
-
----
 
 ## The session 'your-project-name-here.sesx' contains files with unsaved changes
 
