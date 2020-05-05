@@ -1,5 +1,7 @@
 # Adding Narration to Your Project
 
+\(If your story does not include narration, skip this step.\)
+
 If you’re working on a project that requires narration, you can create sound bite WAV files from your narration WAV file using the Waveform Editor. You can add the narration sound bite WAV files to audio tracks in your Multitrack Session.
 
 1. Copy your narration WAV files into your project folder.
