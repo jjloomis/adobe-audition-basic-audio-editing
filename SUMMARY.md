@@ -36,11 +36,11 @@
 * [Working with Additional WAV Files](editing/working-with-additional-audio-files.md)
 * [Working with Other Audio Formats](working-with-other-audio-formats.md)
 * [Moving Multiple Sound Bites](editing/moving-multiple-sound-bites.md)
+* [Recording Narration with Zoom H2N](editing/recording-narration-with-zoom-h2n.md)
 * [Adding Narration](editing/adding-narration.md)
 * [Applying Fades to Sound Bites](editing/applying-fades-to-sound-bites.md)
 * [Using Track Controls](editing/using-track-controls.md)
 * [Automating Track Volume with Keyframes](editing/automating-track-volume.md)
-* [Recording Narration with Zoom H2N](editing/recording-narration-with-zoom-h2n.md)
 
 ## Exporting
 
