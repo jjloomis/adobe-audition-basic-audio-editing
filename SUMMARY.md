@@ -52,6 +52,7 @@
 ## Troubleshooting
 
 * [Warning Boxes: What to Click](troubleshooting/warning-boxes.md)
+* [Converting an M4A file to a WAV with a 44.1 kHz Sample Rate](troubleshooting/converting-an-m4a-file-to-a-wav-with-a-44.1-khz-sample-rate.md)
 
 ## Glossary
 
