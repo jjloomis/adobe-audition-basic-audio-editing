@@ -11,5 +11,5 @@ Adding **range markers** to WAV files is an essential part of the JAMS audio edi
 5. In the **Markers** panel, click the name of the range marker \(probably **Marker 01**\) and give it a better name \(use something that will help you remember its content.\) Follow [file and folder naming conventions](https://jjloomis.gitbooks.io/file-and-folder-management/content/file-and-folder-naming-conventions.html).
 6. Repeat this process to add **range markers** to all of the keeper sound bites in your WAV files.
 
-![Range Markers in the Markers panel.](../.gitbook/assets/adding-range-markers.png)
+![Range Markers in the Markers panel.](../.gitbook/assets/adding-range-markers-to-wav-file.png)
 
