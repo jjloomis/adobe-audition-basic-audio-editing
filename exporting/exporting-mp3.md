@@ -8,3 +8,5 @@ When you've finished editing your project, you can export it as an MP3.
 4. In the File Name field, name your project. \(Follow file and folder naming conventions.\)
 5. When finished, click **OK**.
 
+![Exporting an MP3 file.](../.gitbook/assets/exporting-an-mp3.png)
+

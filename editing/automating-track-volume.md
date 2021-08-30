@@ -12,3 +12,5 @@ To automate the volume of an audio track, you can add keyframes to your sound bi
 6. To delete a keyframe, click it on the yellow volume bar. The keyframe will appear highlighted. 
 7. Press the **Delete** key \(on keyboard.\)
 
+![Volume keyframes added to WAV file.](../.gitbook/assets/automating-track-volume-with-keyframes.png)
+
