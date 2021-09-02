@@ -2,10 +2,6 @@
 
 * [Introduction](README.md)
 
-## Introduction
-
-* [Intoduction](introduction/readme.md)
-
 ## Listening and Logging
 
 * [Connecting to Your Class Folder](listening-and-logging/connecting-to-your-class-folder.md)
