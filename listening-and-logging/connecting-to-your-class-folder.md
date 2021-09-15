@@ -7,6 +7,7 @@ Three methods for connecting to your class folder are listed below \(you only ne
 ### Link to class folders
 
 * [Click here to connect to your class folder](smb://ufilesls.ad.uwm.edu/LS/Courses/JAMS) using a Campus Computer Lab or JAMS Lab Mac.
+* You may need to drill down in the folder tree to navigate to where you need to be. Double-click a folder to drill down in the folder tree. The path \(sequence of folders\) to your class folder is: LS &gt; Courses &gt; JAMS. 
 
 ### Tech Resources for Students class folder link
 
@@ -14,6 +15,7 @@ Three methods for connecting to your class folder are listed below \(you only ne
 2. Click the **Mac users: Click here to connect to your class folder** link \(upper-right.\)
 3. Your browser will ask if you would like to proceed. Click the affirmative option \(**Open Finder**, **Yes**, **Launch Application**, etc.\)
 4. A dialog box will appear. Click **Connect**. The **JAMS drive** will appear on your **Desktop**.
+5. You may need to drill down in the folder tree to navigate to where you need to be. Double-click a folder to drill down in the folder tree. The path \(sequence of folders\) to your class folder is: LS &gt; Courses &gt; JAMS. 
 
 ### Manually enter server address
 
@@ -22,6 +24,7 @@ Three methods for connecting to your class folder are listed below \(you only ne
 3. In the Server Address field, copy and paste the following string \(be sure to copy the entire string\):   `smb://ufilesls.ad.uwm.edu/LS/Courses/JAMS` 
 4. Click **Connect**.
 5. A dialog box will appear. Click **Connect**. The **JAMS drive** will appear on your **Desktop**.
+6. You may need to drill down in the folder tree to navigate to where you need to be. Double-click a folder to drill down in the folder tree. The path \(sequence of folders\) to your class folder is: LS &gt; Courses &gt; JAMS. 
 
 ![JAMS class folders.](../.gitbook/assets/connecting-to-your-class-folder.png)
 
