@@ -8,10 +8,6 @@ Welcome to Adobe Audition 2021 Basics \| macOS Edition. You’ll use these instr
 
 Jeffrey John Loomis
 
-#### Other formats
-
-PDF, Mobi, and ePub versions of this GitBook are available for download [here](https://www.gitbook.com/book/jjloomis/adobe-audition-basic-audio-editing/details).
-
 #### GitHub
 
 To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-audition-basic-audio-editing).
